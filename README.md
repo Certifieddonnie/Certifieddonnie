@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'M MCDONALD 👋
+![js-1-1024x301](https://user-images.githubusercontent.com/81980032/191874839-8d4c9349-2e9b-4a66-8484-8225a79c46fc.jpg)
+
+### I am a Software Engineer! Currently in the ALX SE Programme. I can code in python 🐍 and also C.
 
 <!--
 **Certifieddonnie/Certifieddonnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ Fun fact:
+- I'm looking to collaborate on projects involving python and offer the best i can.
+- I'm very 
