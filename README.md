@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - I'm looking to collaborate on projects and offer the best i can 👾.
 - I'm very jovial and get acquainted with people quickly 😋🤖.
 - I love learning new things and open to learning new things from you also 🌱🌱.
+- I'm a Pythonist.
 - I'm a Technical writer. Check up my articles on [Medium](https://medium.com/@mcdonaldsamure91)
 - Just a Cool Fun fact, I speak English and Spanish😋😋
 
@@ -44,5 +45,9 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=certifieddonnie&theme=holi-theme&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=certifieddonnie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Certifieddonnie&theme=nightfox&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=certifieddonnie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=certifieddonnie&count_private&show_icons=true&theme=radical)
