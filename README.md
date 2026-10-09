@@ -55,9 +55,11 @@
 
 ### 📊 GitHub Stats & 3D Profile
 
+<!-- 3D-PROFILE-START -->
 <div align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="700"/>
 </div>
+<!-- 3D-PROFILE-END -->
 
 <br/>
 
